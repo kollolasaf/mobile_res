@@ -1,0 +1,250 @@
+@media(min-width:0px) and (max-width:575px) {
+    .phone {
+        display: none;
+    }
+
+    header {
+        width: auto;
+
+    }
+
+    .banner-content h5 {
+        font-size: 12px;
+        letter-spacing: 3px;
+        text-align: center;
+        margin-top: -85px !important;
+    }
+
+    .banner-content h1 {
+        text-align: center;
+        font-size: 45px;
+        margin: 10px 0;
+    }
+
+    .banner-content p {
+
+        line-height: 23px;
+        text-align: center;
+        margin-bottom: 50px !important;
+    }
+
+    .btn-download,
+    .btn-features {
+        padding: 11px 15px;
+        font-size: 12px;
+    }
+
+    .banner-content {
+        text-align: center;
+        /* min-height: 100vh; */
+        margin-top: -57px;
+    }
+
+    .img_beuti {
+        text-align: center;
+        margin-top: -78px !important;
+    }
+
+    .text_beuti {
+        text-align: center;
+        margin-top: 16px;
+    }
+
+    .beautiful_section h5 {
+
+        font-size: 19px;
+        letter-spacing: 4px;
+        font-weight: 700;
+    }
+
+    .beautiful_section h2 {
+
+        font-size: 36px;
+        font-weight: 700;
+    }
+
+    .beautiful_section p {
+        margin-top: 20px;
+    }
+
+    .beautiful ul {
+        margin-top: 30px;
+    }
+
+    .Super {
+        text-align: center;
+    }
+
+    .Super_section h5 {
+        font-size: 19px;
+        letter-spacing: 4px;
+        font-weight: 700;
+    }
+
+    .Super_section h2 {
+        font-size: 36px;
+        font-weight: 700;
+    }
+
+    .Super_section p {
+        margin-top: 20px;
+    }
+
+    .testimonial {
+        text-align: center;
+    }
+
+    .client {
+        margin: auto;
+    }
+
+
+    .client-desk h2 {
+        margin-left: -44px !important;
+    }
+
+    .client-desk h6 {
+        font-size: 13px;
+        margin-top: -2px;
+    }
+
+    .heading h1 {
+        margin-bottom: -28px;
+    }
+
+    .price-table {
+        margin-bottom: -59px;
+    }
+
+    .map {
+        margin-top: -22px;
+    }
+
+
+}
+
+@media(min-width:0px) and (max-width:320px) {
+    .phone {
+        display: none;
+    }
+
+    .btn-download,
+    .btn-features {
+        margin-top: 20px !important;
+    }
+
+    .btn-features {
+        margin-left: 0px;
+    }
+
+    .banner-content {
+        min-height: 81vh;
+        align-items: center;
+        margin-top: 28px;
+    }
+
+    .banner-content h1 {
+        font-size: 35px;
+    }
+
+    .banner-content p {
+        margin-bottom: 0px;
+    }
+
+    .client {
+        width: 58%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .client .img-fluid {
+        max-width: 125%;
+        height: auto;
+        margin-top: -3px;
+    }
+
+    .client-desk h2 {
+        margin-left: 9px !important;
+        font-size: 20px;
+        color: #ffff;
+    }
+
+    .client-desk h6 {
+        margin-left: 3px !important;
+        font-size: 10px;
+        margin-top: -7px;
+    }
+
+    .beautiful_section h5 {
+        font-size: 16px;
+        letter-spacing: 3px;
+        font-weight: 600;
+    }
+
+    .beautiful_section h2 {
+        font-size: 34px;
+        font-weight: 600;
+    }
+
+    .beautiful_section p {
+        margin-top: 1px;
+    }
+
+
+    .img-fluid {
+        max-width: 52%;
+        height: auto;
+        margin-top: -27px;
+    }
+
+    .Super .img-fluid {
+        max-width: 102%;
+        height: auto;
+        margin-top: -27px;
+    }
+
+    form input[type="submit"] {
+        background: transparent;
+        padding: 0;
+        margin: 0;
+        background: #008ed6;
+        padding: 7px 5px;
+        border: none;
+    }
+
+}
+
+@media(min-width:0px) and (max-width:375px) {
+    .img_beuti {
+        text-align: center;
+        margin-top: -100px !important;
+    }
+
+    .img_beuti .img-fluid {
+        max-width: 61%;
+        height: auto;
+    }
+
+
+    .client-desk h2 {
+        margin-left: 3px !important;
+    }
+
+}
+
+@media(min-width:0px) and (max-width:425px) {
+    .client-desk h2 {
+        margin-left: 15px !important;
+    }
+
+    .img_beuti {
+        text-align: center;
+        margin-top: -100px !important;
+    }
+
+    .img_beuti .img-fluid {
+        max-width: 61%;
+        height: auto;
+    }
+}
